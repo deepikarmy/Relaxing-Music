@@ -14,6 +14,7 @@ function Card(props) {
   }
 
   function handlePlay() {
+    console.log("handlePlay called");
     pauseAllAudio();
 
     if (audioRef.current) {
@@ -23,6 +24,7 @@ function Card(props) {
   }
 
   function handlePause() {
+    console.log("handlePause called");
     if (audioRef.current) {
       audioRef.current.pause();
       setIsPlaying(false);
@@ -48,7 +50,7 @@ function Card(props) {
                     }}
                   >
                     {props.heading}
-                    {isPlaying ? (
+                    {isPlaying && audioRef.current ? (
                       <i className="bi bi-pause-fill"></i>
                     ) : (
                       <i className="bi bi-play-fill"></i>
