@@ -50,7 +50,7 @@ function Card(props) {
                     }}
                   >
                     {props.heading}
-                    {isPlaying && audioRef.current ? (
+                    {isPlaying ? (
                       <i className="bi bi-pause-fill"></i>
                     ) : (
                       <i className="bi bi-play-fill"></i>
