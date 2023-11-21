@@ -37,6 +37,12 @@ function App() {
           heading="ASMR"
           audio="music/asmr.mp3"
         />
+
+        <Card
+          image="images/sleep.jpg"
+          heading="DEEP SLEEP"
+          audio="music/sleep.mp3"
+        />
         <Card
           image="https://imgs.search.brave.com/Xk-6Shchg7aJzaMRk1Nwf8kY9KJLzRwSKu6hnnOAvmA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9zcHJpbmctZm9y/ZXN0LXRyZWVzLW5h/dHVyZS1ncmVlbi13/b29kLXN1bmxpZ2h0/LWJhY2tncm91bmRz/XzkzMjAwLTQ4NjYu/anBnP3NpemU9NjI2/JmV4dD1qcGc"
           heading="JUST RELAX"
