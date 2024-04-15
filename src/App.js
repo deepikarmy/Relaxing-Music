@@ -53,7 +53,6 @@ function App() {
             audio="music/headache.mp3"
         />
       </div>
-
       <Footer />
     </div>
   );
