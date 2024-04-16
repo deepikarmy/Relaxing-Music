@@ -39,12 +39,11 @@ function Card(props) {
               <center>
                 <button
                   onClick={isPlaying ? handlePause : handlePlay}
-                  className="btn btn-outline-info btn-sm"
+                  className="btn btn-outline-light btn-sm custom-btn"
                 >
                   <h1
                     style={{
                       fontFamily: "Microsoft Sans Serif",
-                      fontSize: "3vw",
                     }}
                   >
                     {props.heading}

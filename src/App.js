@@ -48,6 +48,11 @@ function App() {
             audio="music/meditation.mp3"
         />
         <Card
+            image="https://relaxing-music.onrender.com/images/sleep.jpg"
+            heading="DEEP SLEEP"
+            audio="music/sleep.mp3"
+        />
+        <Card
             image="https://domf5oio6qrcr.cloudfront.net/medialibrary/5999/bf58db0e-a495-4738-bbe6-cdb6cfb167a6.jpg"
             heading="HEADACHE RELIEF"
             audio="music/headache.mp3"
