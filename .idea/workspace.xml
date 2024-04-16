@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="062d4bf6-92da-4707-a8ed-540cc4642e75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my-app/public/music/asmr.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/public/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/Card.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,9 +112,21 @@
       <workItem from="1713186449723" duration="4411000" />
       <workItem from="1713258368639" duration="426000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1713263897704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713263897704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
