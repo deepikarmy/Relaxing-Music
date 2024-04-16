@@ -57,6 +57,11 @@ function App() {
             heading="HEADACHE RELIEF"
             audio="music/headache.mp3"
         />
+        <Card
+            image="https://www.shutterstock.com/shutterstock/videos/1108494159/thumb/1.jpg?ip=x480"
+            heading="STUDY"
+            audio="music/study.mp3"
+        />
       </div>
       <Footer />
     </div>
